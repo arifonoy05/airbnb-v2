@@ -14,4 +14,4 @@ Run the server <br>
 
 And you're good to go
 
-Visit [this link](https://airbnb-v2-eta.vercel.app/) to take a look at the live site
+Visit [https://airbnb.arifonoy.com/](https://airbnb.arifonoy.com/) to take a look at the live site
