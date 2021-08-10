@@ -3,6 +3,7 @@ Project from [Sonny Sangha](https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNw
 This is a practice project for learning `NextJS` and `TailwindCSS` while creating an [AirBnb](https://airbnb.com) clone
 
 ## Steps to run the Project
+Make sure to have NodeJS installed on your system. If not, download and install it from [NodeJS](https://nodejs.org/en/)
 Clone the repo <br>
 `git clone https://github.com/arifonoy05/airbnb-v2.git`<br>
 
@@ -13,4 +14,4 @@ Run the server <br>
 
 And you're good to go
 
-Visit [this link](https://arifonoy05.github.io/airbnb-v2/) to take a look at the live site
+Visit [this link](https://airbnb-v2-eta.vercel.app/) to take a look at the live site
